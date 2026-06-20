@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harrington Sikeba Mbangu</h1>
 
-<h3 align="center">
-Software Engineering Student
-</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Front-End+Developer;Technical+Marketing+Specialist;SEO+%26+UI%2FUX+Enthusiast;Always+Learning+New+Technologies" />
@@ -117,6 +115,10 @@ Software Engineering Student
 ### ☁️ DevOps & Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
