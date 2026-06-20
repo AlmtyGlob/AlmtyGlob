@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harrington Sikeba Mbangu</h1>
 
 <h3 align="center">
-Software Engineering Student • Full stack Developer • Technical Marketing Specialist
+Software Engineering Student
 </h3>
 
 <p align="center">
