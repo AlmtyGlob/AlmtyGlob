@@ -6,58 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Front-End+Developer;Technical+Marketing+Specialist;SEO+%26+UI%2FUX+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
----
-
-## 📊 About Me
-
-<table>
-<tr>
-<td width="60%">
-
-### 👨‍💻 I'm experienced in:
-
-🔹 Software Engineering Fundamentals
-
-🔹 Front-End Web Development
-
-🔹 Python Development
-
-🔹 C# Programming
-
-🔹 React.js Development
-
-🔹 Database Management (SQL Server)
-
-🔹 AWS Cloud Foundations
-
-🔹 Linux Operating Systems
-
-🔹 Networking Fundamentals (Network+)
-
-🔹 UI/UX Design with Figma
-
-🔹 SEO Audit & Optimisation
-
-🔹 Digital Marketing
-
-🔹 Technical Marketing Strategy
-
-<br>
-
-🎓 Currently pursuing a **BSc in Information Technology (Software Engineering)** at Eduvos.
-
-🚀 Passionate about combining technology, creativity, and business solutions to build impactful digital products.
 
 </td>
 
-<td width="40%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmtyGlob&layout=compact&theme=tokyonight" />
-
-</td>
-</tr>
-</table>
----
 
 ## 🛠️ Tech Stack
 
@@ -166,6 +117,14 @@
 🔹 Support data-driven marketing strategies
 
 ---
+
+<td width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmtyGlob&layout=compact&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
 
 ## 🌐 Connect With Me
 
